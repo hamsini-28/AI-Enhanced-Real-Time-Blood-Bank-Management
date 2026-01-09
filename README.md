@@ -34,8 +34,6 @@ This project introduces a centralized, AI-powered Blood Bank Management System t
 - Real-time blood inventory tracking  
 - AI-based blood demand forecasting  
 - Automated donor matching  
-- Emergency notifications (Email / SMS / App)  
-- Web & Android mobile application  
 
 ---
 
@@ -81,16 +79,6 @@ Web App / Mobile App
 → Node.js Backend  
 → MongoDB Database  
 → AI/ML Prediction Module  
-
----
-
-## 🧪 Testing
-
-- Unit Testing  
-- Integration Testing  
-- Functional Testing  
-- Security Testing  
-- Performance & Stress Testing  
 
 ---
 
